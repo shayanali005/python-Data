@@ -1,2 +1,2 @@
 # python-Data
-A comprehensive collection of Python notes and implementations covering core data structures (Lists, Tuples, Dictionaries) and essential Data Science libraries including NumPy, Pandas, Matplotlib, and NetworkX. Includes PDF documentation and code demonstrations.
+A comprehensive Python and Data Science resource featuring detailed PDF notes and executable code implementations. Covers core data structures, NumPy, Pandas, Matplotlib, and NetworkX.
